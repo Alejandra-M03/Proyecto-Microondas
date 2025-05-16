@@ -1,0 +1,155 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":45.2,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": 110,
+                "Precio": ,
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":20,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": ,
+                "Precio": ,
+            }
+        }
+        {
+              "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":20,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": ,
+                "Precio": ,
+            }
+        }
+        {
+              "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":20,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": ,
+                "Precio": ,
+            }
+        }
+        {
+              "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":20,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": ,
+                "Precio": ,
+            }
+        }
+        {
+              "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":20,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": ,
+                "Precio": ,
+            }
+        }
+        {
+              "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":20,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": ,
+                "Precio": ,
+            }
+        }
+        {
+              "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":20,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": ,
+                "Precio": ,
+            }
+        }
+        {
+              "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":20,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": ,
+                "Precio": ,
+            }
+        }
+        {
+              "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.333,-3.444]
+            },
+            "properties":{
+                "Ancho":20,
+                "Largo":20,
+                "Profundidad":36,
+                "Modelo": ,
+                "Voltaje": ,
+                "Precio": ,
+            }
+        }
+    ]
+}
